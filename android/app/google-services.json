@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352031326981",
+    "project_id": "dhammafriends-977db",
+    "storage_bucket": "dhammafriends-977db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352031326981:android:e1718d363e4214131d2d6c",
+        "android_client_info": {
+          "package_name": "com.example.lesson5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352031326981-bi0uf5qq5dnp4sbt3h9a1anqqmno71vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lesson5",
+            "certificate_hash": "e4df9c8366d7ff6d5f3e3b7c8f874fbd8a8bf191"
+          }
+        },
+        {
+          "client_id": "352031326981-4g1gss15bnakfg5tvp2gmrjniv3n5jsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKkJfY7RCKyCCUgeDvnsKHj8YV4HOHCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352031326981-4g1gss15bnakfg5tvp2gmrjniv3n5jsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
